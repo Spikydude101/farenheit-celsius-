@@ -1,0 +1,35 @@
+html {
+    background-color:rgb(135, 206, 234);
+
+}
+
+body {
+    margin:0 auto ;
+    background-color:white;
+    padding:10px 30px;
+    font-size:24px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(135, 206, 234);
+
+}
+
+#btn {
+    Background-color:rgb(135, 206, 234);
+    color:white;
+    padding:10px 15px;
+    font-size:24px;
+
+}
+
+
+h1 {
+    color:rgb(135, 206, 234);
+    font-size:35px;
+}
+
+input {
+    font-size:18px;
+    background-color:pink;
+    color:RED;
+}
+
