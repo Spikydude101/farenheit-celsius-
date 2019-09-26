@@ -1,0 +1,23 @@
+body {
+    margin:0 auto;
+    border:8px solid grey;
+    padding:10px;
+    width:700px;
+
+}
+
+#convert {
+    font-size:18px;
+
+}
+
+h1 {
+    text-align:center;
+}
+
+#con {
+    text-align:center;
+    border:2px solid grey;
+    font-size:40px;
+}
+
